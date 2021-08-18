@@ -1,0 +1,8 @@
+{
+  "theme": {
+    "gradation": {
+      "primary" : "@color-gradation-lavender-dark-primary",
+      "secondary" : "@color-gradation-lavender-dark-secondary"
+    }
+  }
+}

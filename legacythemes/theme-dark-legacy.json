@@ -1,0 +1,9 @@
+{
+  "accent": "Webex",
+  "theme": "Dark-legacy",
+  "files": [
+    "theme-data/dark/dark-common.json",
+    "theme-data/dark/dark-webex.json",
+    "legacy/dark.json"
+  ]
+}

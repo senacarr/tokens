@@ -1,0 +1,8 @@
+{
+  "accent": "Rose",
+  "theme": "Dark",
+  "files": [
+    "theme-data/dark/dark-common.json",
+    "theme-data/dark/dark-rose.json"
+  ]
+}

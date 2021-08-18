@@ -1,0 +1,15 @@
+{
+  "fontSize": {
+    "extraLarge": "26px",
+    "large": "20px",
+    "medium": "18px",
+    "mediumSmall": "16px",
+    "small": "14px",
+    "extraSmall": "12px"
+  },
+  "fontWeight": {
+    "regular": "50",
+    "semibold": "63",
+    "bold": "75"
+  }
+}
